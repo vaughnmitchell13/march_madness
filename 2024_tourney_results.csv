@@ -1,0 +1,127 @@
+﻿Year,Team_A,Team_B,Winner,Round
+2024,Connecticut,Stetson,Connecticut,r64
+2024,Florida Atlantic,Northwestern,Northwestern,r64
+2024,San Diego State,Alabama Birmingham,San Diego State,r64
+2024,Auburn,Yale,San Diego State,r64
+2024,Brigham Young,Duquesne,Duquesne,r64
+2024,Illinois,Morehead State,Illinois,r64
+2024,Washington State,Drake,Washington State,r64
+2024,Iowa State,South Dakota State,Iowa State,r64
+2024,North Carolina,Wagner,North Carolina,r64
+2024,Mississippi State,Michigan State,Michigan State,r64
+2024,Saint Mary's (CA),Grand Canyon,Grand Canyon,r64
+2024,Alabama,Charleston,Alabama,r64
+2024,Clemson,New Mexico,Clemson,r64
+2024,Baylor,Colgate,Baylor,r64
+2024,Dayton,Nevada,Dayton,r64
+2024,Arizona,Long Beach State,Arizona,r64
+2024,Houston,Longwood,Houston,r64
+2024,Nebraska,Texas A&M,Texas A&M,r64
+2024,Wisconsin,James Madison,James Madison,r64
+2024,Duke,Vermont,Duke,r64
+2024,Texas Tech,NC State,NC State,r64
+2024,Kentucky,Oakland,Oakland,r64
+2024,Florida,Colorado,Colorado,r64
+2024,Marquette,Western Kentucky,Marquette,r64
+2024,Purdue,Grambling State,Purdue,r64
+2024,Utah State,TCU,Utah State ,r64
+2024,Gonzaga,McNeese,Gonzaga,r64
+2024,Kansas,Samford,Kansas,r64
+2024,South Carolina,Oregon,Oregon,r64
+2024,Creighton,Akron,Creighton,r64
+2024,Texas,Colorado State,Texas,r64
+2024,Tennessee,Saint Peter's,Tennessee,r64
+2024,Connecticut,Northwestern,Connecticut,r32
+2024,San Diego State,Yale,San Diego State,r32
+2024,Duquesne,Illinois,Illinois,r32
+2024,Washington State,Iowa State,Iowa State,r32
+2024,North Carolina,Michigan State,North Carolina,r32
+2024,Grand Canyon,Alabama,Alabama,r32
+2024,Clemson,Baylor,Clemson,r32
+2024,Dayton,Arizona,Arizona,r32
+2024,Houston,Texas A&M,Houston,r32
+2024,James Madison,Duke,Duke,r32
+2024,NC State,Oakland,NC State,r32
+2024,Colorado,Marquette,Marquette,r32
+2024,Purdue,Utah State,Purdue,r32
+2024,Gonzaga,Kansas,Gonzaga,r32
+2024,Oregon ,Creighton,Creighton,r32
+2024,Texas,Tennessee,Tennessee,r32
+2024,Connecticut,San Diego State,Connecticut,r16
+2024,Illinois,Iowa State,Illinois,r16
+2024,Noth Carolina,Alabama,Alabama,r16
+2024,Clemson,Arizona,Clemson,r16
+2024,Houston,Duke,Duke,r16
+2024,NC State,Marquette,NC State,r16
+2024,Purdue,Gonzaga,Purdue,r16
+2024,Creighton,Tennessee,Tennessee,r16
+2024,Connecticut,Illinois,Connecticut,r8
+2024,Alabama,Clemson,Alabama,r8
+2024,Duke,NC State,NC State,r8
+2024,Purdue,Tennessee,Purdue,r8
+2024,Connecticut,Alabama,Connecticut,r4
+2024,NC State,Purdue,Purdue,r4
+2024,Connecticut,Purdue,Connecticut,r2
+2023,Alabama,Texas A&M,Alabama,r64
+2023,Maryland,West Virginia,Maryland,r64
+2023,San Diego State,Charleston,San Diego State,r64
+2023,Virginia,Furman,Furman,r64
+2023,Creighton,NC State,Creighton,r64
+2023,Baylor,UC Santa Barbara,Baylor,r64
+2023,Missouri,Utah State,Missouri,r64
+2023,Arizona,Princeton,Princeton,r64
+2023,Purdue,Fairleigh Dickinson,Farleigh Dickinson,r64
+2023,Memphis,Florida Atlantic,Florida Atlantic,r64
+2023,Duke,Oral Roberts,Duke,r64
+2023,Tennessee,Louisiana,Tennessee,r64
+2023,Kentucky,Providence,Kentucky,r64
+2023,Kansas State,Montana State,Kansas State,r64
+2023,Michigan State,California,Michigan State,r64
+2023,Marquette,Vermont,Marquette ,r64
+2023,Houston,Northern Kentucky,Houston,r64
+2023,Iowa State,Auburn,Auburn,r64
+2023,Miami (FL),Drake,Miami (FL),r64
+2023,Indiana,Kent State,Indiana,r64
+2023,Iowa State,Pittsburgh,Pittsburgh,r64
+2023,Xavier,Kennesaw State,Xavier,r64
+2023,Texas A&M ,Penn State,Penn State,r64
+2023,Texas ,Colgate,Texas,r64
+2023,Kansas,Howard,Kansas,r64
+2023,Arkansas,Illinois,Arkansas,r64
+2023,Saint Mary's (CA),Virginia Commonwealth,Saint Mary's (CA),r64
+2023,Connecticut,Iona,Connecticut,r64
+2023,TCU,Arizona,TCU,r64
+2023,Gonzaga,Grand Canyon,Gonzaga,r64
+2023,Northwestern,Boise State,Northwestern,r64
+2023,UCLA,UNC Asheville,UCLA,r64
+2023,Alabama,Maryland,Alabama,r32
+2023,San Diego State,Furman,San Diego State,r32
+2023,Creighton,Baylor,Creighton,r32
+2023,Missouri,Princeton,Princeton,r32
+2023,FDU,Florida Atlantic,Florida Atlantic,r32
+2023,Duke,Tennessee,Tennessee,r32
+2023,Kentucky,Kansas State,Kansas State,r32
+2023,Michigan State,Marquette,Michigan State,r32
+2023,Houston,Auburn,Houston,r32
+2023,Miami (FL),Indiana,Miami (FL),r32
+2023,Pittsburgh,Xavier,Xavier,r32
+2023,Penn State ,Texas,Texas,r32
+2023,Kansas,Arkansas,Arkansas,r32
+2023,Saint Mary's (CA),Connecticut,Connecticut,r32
+2023,TCU,Gonzaga,Gonzaga,r32
+2023,Northwestern,UCLA,UCLA,r32
+2023,Alabama,San Diego State,San Diego State,r16
+2023,Creighton,Princeton,Creighton,r16
+2023,Florida Atlantic,Tennessee,Florida Atlantic,r16
+2023,Kansas State,Michigan State,Kansas State,r16
+2023,Houston,Miami (FL),Miami (FL),r16
+2023,Xavier,Texas,Texas,r16
+2023,Arkansas,Connecticut,Connecticut,r16
+2023,Gonzaga,UCLA,Gonzaga,r16
+2023,Florida Atlantic,Tennessee,Florida Atlantic,r8
+2023,Kansas State,Michigan State,Kansas State,r8
+2023,Miami (FL),Texas,Miami (FL),r8
+2023,Connecticut,Gonzaga,Connecticut,r8
+2023,San Diego State,Florida Atlantic,San Diego State,r4
+2023,Miami (FL),Connecticut,Connecticut,r4
+2023,San Diego State,Connecticut,Connecticut,r2
