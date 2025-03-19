@@ -1,1 +1,7 @@
 .venv
+Yearly_Ratings/
+Yearly_Stats/
+old
+past_brackets
+submission.csv
+submission_1000000_sims.csv
